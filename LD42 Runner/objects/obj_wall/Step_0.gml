@@ -1,0 +1,1 @@
+if global.play&&!global.menu{x+=1}

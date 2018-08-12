@@ -1,0 +1,1 @@
+//draw_text(10,y+10*ran,"Change: "+string(global.room_change))

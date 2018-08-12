@@ -1,0 +1,10 @@
+cur_x = 0
+cur_y = 0
+hsp = 0
+vsp = 0
+col_id = noone
+fade = 0
+fade_x = 0
+fade_y = 0
+fade_angle = 0
+faded = true
